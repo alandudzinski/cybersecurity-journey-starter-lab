@@ -60,6 +60,13 @@ Security professionals use search to find:
 [GitHub](https://github.com/)
 
 ## 8. Mini Scenario
+A beginner security analyst sees repeated failed login attempts from the same IP address.
+
+They would need to:
+1. Search what repeated failed logins may indicate.
+2. Understand the offensive idea: brute-force attempts.
+3. Understand the defensive response: monitoring, rate limiting, multi-factor authentication, and account lockout.
+4. Document the finding clearly.
 
 ## 9. What I Learned
 From this module, I learned that cybersecurity has both offensive and defensive sides. An important takeaway is that ethical hacking must be legal, safe, and permission-based. Another thing I learned is that strong search skills are essential because cybersecurity professionals constantly perform research on tools, errors, attacks, and defenses.
